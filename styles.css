@@ -1,2 +1,18 @@
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 100px;
+  }
 
+  table{
+    position: absolute;
+    top: 30vh;
+    left: 30vw;
+  }
+  .size{
+    text-align: right;
+  }
 /* Your CSS Code here. */
